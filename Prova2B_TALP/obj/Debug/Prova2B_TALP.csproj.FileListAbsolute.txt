@@ -1,0 +1,10 @@
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\bin\Debug\Prova2B_TALP.exe.config
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\bin\Debug\Prova2B_TALP.exe
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\bin\Debug\Prova2B_TALP.pdb
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.csprojResolveAssemblyReference.cache
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.Form1.resources
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.Properties.Resources.resources
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.csproj.GenerateResource.Cache
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.exe
+C:\Users\joaov\Desktop\Prova2B_TALP\Prova2B_TALP\obj\Debug\Prova2B_TALP.pdb
